@@ -1,102 +1,102 @@
 [
-  {
-    "codigo": 1,
-    "nombre": "Leanne",
-    "apellido": "Graham",
-    "email": "Sincere@april.biz",
-    "direccion": {
-      "calle": "Kulas Light",
-      "numero": "Apt. 556"},
-    "telefono": "1-770-736-8031 x56442"
-  },
-  {
-    "codigo": 2,
-    "nombre": "Ervin Howell",
-    "apellido": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "direccion": {
-      "calle": "Victor Plains",
-      "numero": "Suite 879"},
-    "telefono": "010-692-6593 x09125"
-  },
-  {
-    "codigo": 3,
-    "nombre": "Clementine Bauch",
-    "apellido": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "direccion": {
-      "calle": "Douglas Extension",
-      "numero": "Suite 847"},
-    "telefono": "1-463-123-4447"
-  },
-  {
-    "codigo": 4,
-    "nombre": "Patricia Lebsack",
-    "apellido": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "direccion": {
-      "calle": "Hoeger Mall",
-      "numero": "Apt. 692"},
-    "telefono": "493-170-9623 x156"
-  },
-  {
-    "codigo": 5,
-    "nombre": "Chelsey Dietrich",
-    "apellido": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "direccion": {
-      "calle": "Skiles Walks",
-      "numero": "Suite 351"},
-    "telefono": "(254)954-1289"
-  },
-  {
-    "codigo": 6,
-    "nombre": "Mrs. Dennis Schulist",
-    "apellido": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "direccion": {
-      "calle": "Norberto Crossing",
-      "numero": "Apt. 950"},
-    "telefono": "1-477-935-8478 x6430"
-  },
-  {
-    "codigo": 7,
-    "nombre": "Kurtis Weissnat",
-    "apellido": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
-    "direccion": {
-      "calle": "Rex Trail",
-      "numero": "Suite 280"},
-    "telefono": "210.067.6132"
-  },
-  {
-    "codigo": 8,
-    "nombre": "Nicholas Runolfsdottir V",
-    "apellido": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "direccion": {
-      "calle": "Ellsworth Summit",
-      "numero": "Suite 729"},
-    "telefono": "586.493.6943 x140"
-  },
-  {
-    "codigo": 9,
-    "nombre": "Glenna Reichert",
-    "apellido": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
-    "direccion": {
-      "calle": "Dayna Park",
-      "numero": "Suite 449"},
-    "telefono": "(775)976-6794 x41206"
-  },
-  {
-    "codigo": 10,
-    "nombre": "Clementina DuBuque",
-    "nombre": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "direccion": {
-      "calle": "Kattie Turnpike",
-      "numero": "Suite 198"},
-    "telefono": "024-648-3804",    }
-  }
-]
+        {
+          "codigo": "1",
+          "nombre": "Leanne",
+          "apellido": "Graham",
+          "email": "Sincere@april.biz",
+          "direccion": {
+            "calle": "Kulas Light",
+            "numero": "Apt. 556"},
+          "telefono": "1-770-736-8031 x56442"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Ervin Howell",
+          "apellido": "Antonette",
+          "email": "Shanna@melissa.tv",
+          "direccion": {
+            "calle": "Victor Plains",
+            "numero": "Suite 879"},
+          "telefono": "010-692-6593 x09125"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Clementine Bauch",
+          "apellido": "Samantha",
+          "email": "Nathan@yesenia.net",
+          "direccion": {
+            "calle": "Douglas Extension",
+            "numero": "Suite 847"},
+          "telefono": "1-463-123-4447"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Patricia Lebsack",
+          "apellido": "Karianne",
+          "email": "Julianne.OConner@kory.org",
+          "direccion": {
+            "calle": "Hoeger Mall",
+            "numero": "Apt. 692"},
+          "telefono": "493-170-9623 x156"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chelsey Dietrich",
+          "apellido": "Kamren",
+          "email": "Lucio_Hettinger@annie.ca",
+          "direccion": {
+            "calle": "Skiles Walks",
+            "numero": "Suite 351"},
+          "telefono": "(254)954-1289"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Mrs. Dennis Schulist",
+          "apellido": "Leopoldo_Corkery",
+          "email": "Karley_Dach@jasper.info",
+          "direccion": {
+            "calle": "Norberto Crossing",
+            "numero": "Apt. 950"},
+          "telefono": "1-477-935-8478 x6430"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Kurtis Weissnat",
+          "apellido": "Elwyn.Skiles",
+          "email": "Telly.Hoeger@billy.biz",
+          "direccion": {
+            "calle": "Rex Trail",
+            "numero": "Suite 280"},
+          "telefono": "210.067.6132"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Nicholas Runolfsdottir V",
+          "apellido": "Maxime_Nienow",
+          "email": "Sherwood@rosamond.me",
+          "direccion": {
+            "calle": "Ellsworth Summit",
+            "numero": "Suite 729"},
+          "telefono": "586.493.6943 x140"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Glenna Reichert",
+          "apellido": "Delphine",
+          "email": "Chaim_McDermott@dana.io",
+          "direccion": {
+            "calle": "Dayna Park",
+            "numero": "Suite 449"},
+          "telefono": "(775)976-6794 x41206"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Clementina DuBuque",
+          "apellido": "Moriah.Stanton",
+          "email": "Rey.Padberg@karina.biz",
+          "direccion": {
+            "calle": "Kattie Turnpike",
+            "numero": "Suite 198"},
+          "telefono": "024-648-3804"},
+        
+      ]
